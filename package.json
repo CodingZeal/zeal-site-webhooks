@@ -1,0 +1,19 @@
+{
+  "name": "zeal-site-webhooks",
+  "version": "1.0.0",
+  "description": "Webflow webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingZeal/zeal-site-webhooks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodingZeal/zeal-site-webhooks/issues"
+  },
+  "homepage": "https://github.com/CodingZeal/zeal-site-webhooks#readme"
+}
